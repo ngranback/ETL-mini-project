@@ -1,9 +1,9 @@
 ,Season,EpisodeNo,Title,AirDate,Writers,Director,SEID
 0,1.0,1.0,"Good News, Bad News","July 5, 1989","Larry David, Jerry Seinfeld",Art Wolff,S01E01
-1,1.0,1.0,The Stakeout,"May 31, 1990","Larry David, Jerry Seinfeld",Tom Cherones,S01E01
-2,1.0,2.0,The Robbery,"June 7, 1990",Matt Goldman,Tom Cherones,S01E02
-3,1.0,3.0,Male Unbonding,"June 14, 1990","Larry David, Jerry Seinfeld",Tom Cherones,S01E03
-4,1.0,4.0,The Stock Tip,"June 21, 1990","Larry David, Jerry Seinfeld",Tom Cherones,S01E04
+1,1.0,2.0,The Stakeout,"May 31, 1990","Larry David, Jerry Seinfeld",Tom Cherones,S01E02
+2,1.0,3.0,The Robbery,"June 7, 1990",Matt Goldman,Tom Cherones,S01E03
+3,1.0,4.0,Male Unbonding,"June 14, 1990","Larry David, Jerry Seinfeld",Tom Cherones,S01E04
+4,1.0,5.0,The Stock Tip,"June 21, 1990","Larry David, Jerry Seinfeld",Tom Cherones,S01E05
 5,2.0,1.0,The Ex-Girlfriend,"January 16, 1991","Larry David, Jerry Seinfeld",Tom Cherones,S02E01
 6,2.0,2.0,The Pony Remark,"January 30, 1991","Larry David, Jerry Seinfeld",Tom Cherones,S02E02
 7,2.0,3.0,The Jacket,"February 6, 1991","Larry David, Jerry Seinfeld",Tom Cherones,S02E03
@@ -62,7 +62,7 @@
 60,4.0,21.0,The Smelly Car,"April 15, 1993","Larry David, Peter Mehlman",Tom Cherones,S04E21
 61,4.0,22.0,The Handicap Spot,"May 13, 1993",Larry David,Tom Cherones,S04E22
 62,4.0,23.0,The Pilot (1),"May 20, 1993",Larry David,Tom Cherones,S04E23
-63,4.0,24.0,The Pilot (2),"May 20, 1993",Larry David,Tom Cherones,S04E24
+63,4.0,x.0,The Pilot (2),"May 20, 1993",Larry David,Tom Cherones,x
 64,5.0,1.0,The Mango,"September 16, 1993","Lawrence H. Levy, Buck Dancer (Larry David pseudonym)",Tom Cherones,S05E01
 65,5.0,2.0,The Puffy Shirt,"September 23, 1993",Larry David,Tom Cherones,S05E02
 66,5.0,3.0,The Glasses,"September 30, 1993","Tom Gammill, Max Pross",Tom Cherones,S05E03
@@ -120,16 +120,16 @@
 118,7.0,12.0,The Caddy,"January 25, 1996","Gregg Kavet, Andy Robin",Andy Ackerman,S07E12
 119,7.0,13.0,The Seven,"February 1, 1996","Alec Berg, Jeff Schaffer",Andy Ackerman,S07E13
 120,7.0,14.0,The Cadillac (1),"February 8, 1996","Larry David, Jerry Seinfeld",Andy Ackerman,S07E14
-121,7.0,15.0,The Cadillac (2),"February 8, 1996","Larry David, Jerry Seinfeld",Andy Ackerman,S07E15
-122,7.0,16.0,The Shower Head,"February 15, 1996","Peter Mehlman, Marjorie Gross",Andy Ackerman,S07E16
-123,7.0,17.0,The Doll,"February 22, 1996","Tom Gammill, Max Pross",Andy Ackerman,S07E17
-124,7.0,18.0,The Friars Club (a.k.a. The Gypsies),"March 7, 1996",David Mandel,Andy Ackerman,S07E18
-125,7.0,19.0,The Wig Master,"April 4, 1996",Spike Feresten,Andy Ackerman,S07E19
-126,7.0,20.0,The Calzone,"April 25, 1996","Alec Berg, Jeff Schaffer",Andy Ackerman,S07E20
-127,7.0,21.0,The Bottle Deposit (1),"May 2, 1996","Gregg Kavet, Andy Robin",Andy Ackerman,S07E21
-128,7.0,22.0,The Bottle Deposit (2),"May 2, 1996","Gregg Kavet, Andy Robin",Andy Ackerman,S07E22
-129,7.0,23.0,The Wait Out,"May 9, 1996",Peter Mehlman,Andy Ackerman,S07E23
-130,7.0,24.0,The Invitations,"May 16, 1996",Larry David,Andy Ackerman,S07E24
+121,7.0,x.0,The Cadillac (2),"February 8, 1996","Larry David, Jerry Seinfeld",Andy Ackerman,x
+122,7.0,15.0,The Shower Head,"February 15, 1996","Peter Mehlman, Marjorie Gross",Andy Ackerman,S07E15
+123,7.0,16.0,The Doll,"February 22, 1996","Tom Gammill, Max Pross",Andy Ackerman,S07E16
+124,7.0,17.0,The Friars Club (a.k.a. The Gypsies),"March 7, 1996",David Mandel,Andy Ackerman,S07E17
+125,7.0,18.0,The Wig Master,"April 4, 1996",Spike Feresten,Andy Ackerman,S07E18
+126,7.0,19.0,The Calzone,"April 25, 1996","Alec Berg, Jeff Schaffer",Andy Ackerman,S07E19
+127,7.0,20.0,The Bottle Deposit (1),"May 2, 1996","Gregg Kavet, Andy Robin",Andy Ackerman,S07E20
+128,7.0,x.0,The Bottle Deposit (2),"May 2, 1996","Gregg Kavet, Andy Robin",Andy Ackerman,x
+129,7.0,21.0,The Wait Out,"May 9, 1996",Peter Mehlman,Andy Ackerman,S07E21
+130,7.0,22.0,The Invitations,"May 16, 1996",Larry David,Andy Ackerman,S07E22
 131,8.0,1.0,The Foundation,"September 19, 1996","Alec Berg, Jeff Schaffer",Andy Ackerman,S08E01
 132,8.0,2.0,The Soul Mate,"September 26, 1996",Peter Mehlman,Andy Ackerman,S08E02
 133,8.0,3.0,The Bizarro Jerry,"October 3, 1996",David Mandel,Andy Ackerman,S08E03
